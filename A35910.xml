@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between two porters, upon Dr. O---s's removing from White-hall into the city</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35910</idno>
+            <idno type="STC">Wing D1344</idno>
+            <idno type="STC">ESTC R4</idno>
+            <idno type="EEBO-CITATION">11774596</idno>
+            <idno type="OCLC">ocm 11774596</idno>
+            <idno type="VID">48925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48925)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 488:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between two porters, upon Dr. O---s's removing from White-hall into the city</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) ;  29 cm. </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:48925:1" rendition="simple:additions"/>
+            <head>A DIALOGUE BETWEEN TWO PORTERS, Upon D<hi rend="sup">r.</hi> 
+               <hi>O———s</hi>'s removing from <hi>White-hall</hi> into the City.</head>
+            <head type="sub">ROBIN <hi>and</hi> NICK.</head>
+            <sp>
+               <speaker>R.</speaker>
+               <p>HOw now, <hi>Nick,</hi> art thou there? Art thou to be my Partner in removing the Doctor's matters and buſineſſes.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>So it ſeems,</hi> Robin; <hi>He ſent one of his Life-Guard for me to day, before I could get out of Bed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Ay, thou maiſt ſee what it is to lie lazing ſo long in Bed in a morning; for if thou hadſt come but never ſo little ſooner, thou might'ſt have had thy mornings drink here on Free coſt.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>Prithee how ſo?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Why, Sir, I went yonder to the next Shop, to fetch this Cord, to cord that Box of — God knows what; and when the Maſter of the Shop ask'd mee who it was for, and I ſaid for Dr. <hi>O—, God a mercy for that, honest Porter,</hi> (ſays he;) <hi>Is it come to that? Here take the Money again; preſent my Service to the Doctor, and tell him, He ſhall never want for a Cord, as long as I have one in the Shop.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>And prithee what ſaid the Doctor to that?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Why, you Coxcomb, I never told him a word on't; but went directly to <hi>Wil</hi>'s and he and I drank the Shilling that was to pay for't.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>That Shop-keeper was ſome Rogue of a</hi> Tory, <hi>I'll lay my Life on't; But prithee what do people ſay concerning the Doctor's removing?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Why faith, to tell thee the truth, ſo many men ſo many minds, I think; Some ſay this, and ſome ſay that; but God knows who's i'th' right on't. Some ſay the Air at <hi>White-hall</hi> does not agree with him; and the Phyſicians think it is becauſe he was never brought up in't.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>That may very well be; for ever ſince he has been there (ſome curious Obſenvers ſay) he has been declining; eſpecially ſince his laſt Journey to</hi> Oxford, <hi>where 'tis fear'd he did himſelf no good.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>There are ſome that think he remov'd that he might be a little nearer <hi>Richard</hi>'s Coffee-Houſe, or that he might with leſs time and trouble viſit my Lord <hi>S—y</hi> and my Lord <hi>H—d;</hi> and if by chance it ſhould come to his own fortune to be ſent to the Tower too, he would be ſo far on his way.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>Alaſs! Alaſs!</hi> Robin, <hi>doſt thou think it will ever come to that? Were it not a ſad thing, think'ſt thou, that the Gooſe which ſav'd the Capitol ſhould be firſt fed fat, and then roaſted?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Ay, why ſhould ſhe not, if ſhe had no more wit but to be catch'd in the Corn after<g ref="char:EOLhyphen"/>wards? But there are others, I muſt tell you, that attribute it to his natural inclination and diſpoſition to change; Others, that think it was becauſe there was more need of Counſel in the City than at Court; and that his words would have more weight among the Petiti<g ref="char:EOLhyphen"/>oning-Apprentices than among the Peers of the Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>Why truly, I confeſs ſuch a man as he is extremely wanted in the City, to compoſe their heats, and make a mutual right underſtanding among I is Majeſty's Loyal-Apprentice-Subjects and the</hi> Tory-Party; <hi>for they never ſtood in more need of a Tutor.</hi>
+               </p>
+            </sp>
+            <pb facs="tcp:48925:2" rendition="simple:additions"/>
+            <sp>
+               <speaker>R.</speaker>
+               <p>There are others yet believe it was none of his own voluntary act; but that the Higher Powers, conſidering the continual Complaints againſt Favourites and Penſioners, c'en took away his Salary, and ſhew'd him the Gate, to pleaſe the people.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>I like that laſt key to the ſtory very well, for though (as you know my Principles) I love Dr.</hi> O—; <hi>yet I hate he ſhould be a Penſioner.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Some tell us, that at <hi>White-hall</hi> there was ſuch a continual noiſe and do, that he had ſcarce the quiet and leaſure to moke a Sermon that had neither Non-ſence or ſomewhat worſe in it; and that was ſo much taken notice of, that <hi>Care</hi>'s Lying Rogue (that ill-natu<g ref="char:EOLhyphen"/>red <hi>Obſervator</hi>) could not forbear ſpeaking of it.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>Now you talk of the</hi> Obſervator; <hi>what do you think he'll ſay of this? And then thoſe Mad Fellow there, what do ye call 'em,</hi> Raclitus <hi>and</hi> Ridens, <hi>that lay their Heads together (folk ſay) to make Sport, what work ſhall we have with them this Week? But I hope the Rogues will Laugh themſelves into a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it of the</hi> Spleen, <hi>and die like thoſe men that Sawey</hi> Jack <hi>the Seaman us'd to Talk of, that were Bitten by the</hi> Tarantula's; <hi>or elſe the</hi> Brethren ſhall never <hi>have one quiet Hour this nine Heeks to come.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>But what wouldſt thou ſay now if all theſe Conjecturs fall ſhort of a real Truth, and the <hi>Doctors</hi> Deſerts; for I'l aſſure thee I ſaw ſome Brave Gentlemen Whiſper, and Point at him as he went out, but God knows what they ſaid: And who can tell but they may be miſtaken too? For the <hi>Doctors</hi> whole Life has been a Riddle, and almoſt as fatal as the Rid<g ref="char:EOLhyphen"/>dle of <hi>Sphingibus,</hi> that our Parſon was talking of laſt <hi>Sunday</hi> but one; for I'l aſſure you it has coſt ſome Heads as well as that did.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>Peace man, for fear of being Over-heard; for without doubt theſe are not Matters for Porters handling: All that I am thinking is this, that if the Poor</hi> Doctor <hi>ſhould have no bet<g ref="char:EOLhyphen"/>ter Luck among the Citizens then he has had among the Courtiers he may e'en retreat and march off, but God knows whither; except it be to</hi> Geneva, <hi>for (the more pity) he has already baniſht himſelf out of the greateſt part of</hi> Chriſtendom.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Come, come, I would adviſe him to Troop off, and make no noiſe; for I do not believe, that though he ſhould ſtay here as long as the <hi>Sun</hi> and <hi>Moon,</hi> he could ever reco<g ref="char:EOLhyphen"/>ver ſome mens good Opinion.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>Some mens good Opinion ſayeſt thou; What needs he care for ſome mens good Opinion? As long as he ſtands fair with the City and the Godly Party, no matter what all the world be<g ref="char:EOLhyphen"/>ſides ſays.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I am not altogether of that perſwaſion; for both the City and the Godly Party are but uncertain Friends, (as you know who found them) when they come to the teſt; and run away from the miſerable, as men do from the Plague, or as Rats they ſay do from a fal<g ref="char:EOLhyphen"/>ling Houſe.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>Who dost thou think then ſhall maintain the Doctor? For the man muſt not ſtarve.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Muſt not ſtarve, (quoth he,) but he muſt, except he can get Victuals; and (to tell you plainly) I cannot ſee whence it ſhould come. The <hi>Papists</hi> are very charitable people, but they have done their parts to him already they ſay. The <hi>Phanaticks</hi> are not certain (as one ſaid in another caſe) that he is theirs. And the Church of <hi>England</hi> utterly diſclaims him, for abuſing his Mother, and calling her names. I was ſomewhere t'other day, where two or three Gentlemen were talking of the Doctor; and one that ſate by told them he thought the Doctor was a good Son of the Church; <hi>He a Son of the Church,</hi> (ſays another) <hi>he a Son of a—</hi> Weaver; and then they fell all a laughing.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>So then, it ſeems you think there's no other way for him, but to be gone; But is it not as good for him to ſtay here and ſtarve, (like</hi> Jane Shore) <hi>as croſs the Sea (like Woodcocks) only to be knock'd o'th' head. For my part, if I were in his caſe, I ſhould e'en tie the fatal knot my ſelf, and defie my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ate.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Bravely ſpoken indeed, but that's the way to go directly to the Devil (God bleſs us.) Now I am ſo much a well-wiſher to the Doctor, that I had rather ſee him live to repent, and then with a great deal of ſatisfaction, both to himſelf and every body elſe, die like a good Chriſtian, by his hands that preferr'd <hi>Coleman,</hi> and Sainted the <hi>Jeſuits.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <hi>Thou art a bitter Fellow, and methinks much ſitter for a Porter than a Judge; and therefore prithee lift there, and let's be gone.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A. Banks,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
